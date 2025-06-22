@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shalev</h1>
 <h3 align="center">A Software (ninja) Developer</h3>
 
-- 🔭 I’m currently working on **Django backend server**
+- 🔭 I’m currently working on **Real Estate Smart Assistant API **
 
-- 🤝 I’m looking for **Software development position**
+- 🤝 I’m looking for **Software development position (Prefer in Java / Python Language)**
 
 - 📫 How to reach me **shalevsaban1@gmail.com**
 
