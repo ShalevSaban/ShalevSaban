@@ -26,9 +26,9 @@
 ---
 
 ### 🚀 Featured Projects
-- **[InvestMateAI](#)** – Smart real-estate platform using FastAPI, PostgreSQL, AWS & GPT-4  
-- **[Movie Rental System](#)** – Backend with Java Spring Boot & MongoDB  
-- **[Shared Calendar App](#)** – Android app with Java and XML  
+- **[InvestMateAI](https://github.com/ShalevSaban/InvestMateAI)** – Smart real-estate platform using FastAPI, PostgreSQL, AWS & GPT-4  
+- **[TinyURL](https://github.com/ShalevSaban/tinyUrl)** – Scalable URL Shortener with Spring Boot
+- **[Game Hub](https://github.com/ShalevSaban/Game-Hub)** – Video game discovery web app with React.ts  
 
 ---
 
