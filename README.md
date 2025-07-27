@@ -60,6 +60,5 @@
 
 ---
 
-### 🐍 Snake Animation
-![Snake animation](https://github.com/shalevsaban/shalevsaban/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shalevsaban/shalevsaban/blob/output/snake.svg)
 
